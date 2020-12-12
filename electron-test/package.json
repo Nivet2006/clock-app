@@ -5,6 +5,7 @@
     "start": "electron ."
   },
   "devDependencies": {
-    "electron-packager": "^15.2.0"
+    "electron-packager": "^15.2.0",
+    "electron-winstaller": "^4.0.1"
   }
 }
