@@ -1,7 +1,10 @@
 {
-    "name": "electron-test", 
-    "main": "index.js",  
-    "scripts": {
-      "start": "electron ."
-    }
+  "name": "electron-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron-packager": "^15.2.0"
   }
+}
