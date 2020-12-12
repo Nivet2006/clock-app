@@ -6,7 +6,7 @@ function createWindow() {
   const win = new BrowserWindow({
     width: 190,
     height: 150,
-    resizable: false,
+    resizable: true,
   });
   win.loadFile("index.html");
 }

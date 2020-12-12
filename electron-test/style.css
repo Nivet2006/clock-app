@@ -2,6 +2,6 @@ body {
     font-family: monospace;
     font-size: 32px;
     background-color: black;
-    color: greenyellow;
+    color: rgb(255, 255, 255);
     text-align: center;
   }
