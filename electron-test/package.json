@@ -6,5 +6,10 @@
   },
   "devDependencies": {
     "electron-winstaller": "^4.0.1"
-  }
+  },
+  "build": {
+    "files": [
+      "build/*"
+    ]
+}
 }
