@@ -5,7 +5,7 @@ app.whenReady().then(createWindow);
 function createWindow() {
   const win = new BrowserWindow({
     width: 190,
-    height: 80,
+    height: 150,
     resizable: false,
   });
   win.loadFile("index.html");
