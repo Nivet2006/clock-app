@@ -1,5 +1,5 @@
 {
-  "name": "electron-test",
+  "name": "clock",
   "main": "index.js",
   "scripts": {
     "start": "electron ."
