@@ -1,2 +1,2 @@
 # electron-minds
-all electron files created by minds will be available
+a clock app which shows current time.
