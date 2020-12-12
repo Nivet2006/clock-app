@@ -7,7 +7,7 @@ gulp.task('create-windows-installer', function (done) {
         appDirectory: './node_modules/electron/dist',
         outputDirectory: './release',
         arch: 'ia32',
-        authors: "Syncfusion",
+        authors: "minds0987 web productions",
         version: "1.0.0",
         iconUrl: "favicon.ico",
         setupIcon: "favicon.ico",
