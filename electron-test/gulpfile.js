@@ -9,9 +9,9 @@ gulp.task('create-windows-installer', function (done) {
         arch: 'ia32',
         authors: "minds0987 web productions",
         version: "1.0.0",
-        iconUrl: "favicon.ico",
-        setupIcon: "favicon.ico",
-        loadingGif: "ele.gif",
+        iconUrl: "D:\ELECTRON\electron-minds\electron-test\img-src\clock.ico",
+        setupIcon: "D:\ELECTRON\electron-minds\electron-test\img-src\clock.ico",
+        loadingGif: "D:\ELECTRON\electron-minds\electron-test\img-src\loading.gif",
         noMsi:true
     }).then().catch();
 });
