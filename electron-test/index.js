@@ -9,5 +9,4 @@ function createWindow() {
     resizable: true,
   });
   win.loadFile("index.html");
-  win.setIcon('D:\ELECTRON\electron-minds\electron-test\img-src\clock.ico');
 }
