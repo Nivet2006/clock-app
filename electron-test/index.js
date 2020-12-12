@@ -1,10 +1,4 @@
 const { app, BrowserWindow } = require("electron");
-const path = require('path');
-const iconPath = path.join(__dirname, "build", "icon.png");
-
-let window = new BrowserWindow({
-      icon: iconPath
-})
 
 app.whenReady().then(createWindow);
 
