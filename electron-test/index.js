@@ -7,5 +7,6 @@ function createWindow() {
     width: 190,
     height: 150,
     resizable: true,
+    icon:'D:\ELECTRON\electron-minds\electron-test\img-src\clock.ico'
   });
   win.loadFile("index.html");}

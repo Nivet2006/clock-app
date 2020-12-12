@@ -12,6 +12,8 @@ gulp.task('create-windows-installer', function (done) {
         iconUrl: "D:\ELECTRON\electron-minds\electron-test\img-src\clock.ico",
         setupIcon: "D:\ELECTRON\electron-minds\electron-test\img-src\clock.ico",
         loadingGif: "D:\ELECTRON\electron-minds\electron-test\img-src\loading.gif",
-        noMsi:true
+        noMsi:true,
+        setupExe: "clock",
+        setupMsi: "clock"
     }).then().catch();
 });
