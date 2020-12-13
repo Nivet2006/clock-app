@@ -1,3 +1,5 @@
+//Review of code completed and all ready togo
+//This is the index.html file of Electron clock app
 const { app, BrowserWindow } = require("electron");
 
 app.whenReady().then(createWindow);
