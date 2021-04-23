@@ -1,4 +1,5 @@
 <mark>#clock-app</mark>
+---------------------------
 a clock app which shows current time.
 
 ### INSTRUCTIONS
