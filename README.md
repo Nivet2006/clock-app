@@ -10,3 +10,5 @@ mail to minds0987@gmail.com
 
 ### This Repository is archived!
 For developing after archiving mail to minds0987@gmail.com
+
+### Can be run only on Desktop!!
